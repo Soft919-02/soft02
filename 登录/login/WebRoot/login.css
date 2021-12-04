@@ -1,0 +1,92 @@
+
+body {
+	background-image: url(../font-awesome-4.7.0/fonts/fontawesome-webfont.svg);
+}
+
+a {
+	height: 40px;
+	line-height: 40px;
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 18px;
+}
+
+.wrap {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin: -175px 0 0 -250px;
+	padding: 20px;
+	width: 600px;
+	height: 500px;
+	background: #333333;
+	box-shadow: 0 0 10px rgba(255,255,255,0.5);
+	box-sizing: border-box;
+}
+
+h1 {
+	height: 60px;
+	color: #ffffff;
+	text-align: center;
+	border-bottom: 1px solid rgba(255,255,255,0.5);
+}
+.input-group {
+	margin: 20px auto;
+	width: 400px;
+	color: #ffffff;
+	height: 50px;
+	line-height: 40px;
+	/* border: 1px solid rgba(0,0,0,0.1); */
+}
+
+i {
+	float: left;
+	width: 60px;
+	height: 50px;
+	text-align: center;
+	line-height: 40px !important; /* !important 规则用于增加样式的权重 */
+	background: #aa5500;
+	color: #ffffff;
+	font-size: 22px !important;
+}
+
+.input-control {
+	float: left;
+	padding: 0 10px;
+	height: 50px;
+	width: 300px;
+	font-size: 18px;
+	box-sizing: border-box;
+}
+
+.login {
+	width: 200px;
+	height: 50px;
+	font-size: 18px;
+	border: 1px solid rgb(170, 85, 0);
+	color: rgb(170, 85, 0);
+	background: #FFFFFF;
+}
+
+.login:hover {
+	color:#FFFFFF;
+	background: rgb(170, 85, 0);
+}
+
+.yz {
+	width: 170px;
+	height: 50px;
+}
+
+.yzm {
+	width: 90px;
+	height: 50px;
+	line-height: 40px;
+	color: #FFFFFF;
+	font-size: 22px;
+}
+
+
+
+
+

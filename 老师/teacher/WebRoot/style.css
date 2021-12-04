@@ -1,0 +1,61 @@
+@CHARSET "UTF-8";
+.body{
+	background:2.jpg;
+}
+.wdl0{
+	width:30px;
+	height:50px;
+
+}
+
+.wdl1{
+	font-size:50px;
+	display:inline-block;
+	width:200px;
+	height:300px;	
+}
+
+
+.wdl2{
+	width:100px;
+	height:300px;
+	display:inline-block;
+	position:absolute;
+
+	vertical-align:top;
+
+
+}
+
+
+.wdl2 .wdl3{
+	font-size:30px;
+	width:200px;
+	height:40px;
+    float:top;
+    
+}
+
+.wdl4{
+	width:200px;
+	background:white;
+	display:inline-block;
+}
+
+.wdl5{
+	font-size:20px;
+	background:white;
+}
+
+.wdl6{
+	    width:1000px;
+	    height:500px;
+
+}
+
+.wdl7{
+	width:500px;
+	height:400px;
+	border:1px solid block;
+	border-collapse:collapse;
+}
